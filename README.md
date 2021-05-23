@@ -22,11 +22,12 @@ Code Refactor Project
 
 ## ScreenShot
 
-[Screenshot](/assets/images/horiseon-screenshot.png "Screenshot")
+[Screenshot](./assets/images/webScreenshot.png "Screenshot")
 
 ## Link to Deployed Website
 
 https://acromarti01.github.io/code-refactor-repo/
+
 
 
 
