@@ -22,7 +22,7 @@ Code Refactor Project
 
 ## ScreenShot
 
-[Screenshot](/C:\Users\Anthony\projects\code-refactor-repo\assets\images\horiseon-screenshot.png "Screenshot")
+[Screenshot](/assets/images/horiseon-screenshot.png "Screenshot")
 
 ## Link to Deployed Website
 
